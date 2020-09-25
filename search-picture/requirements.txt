@@ -1,0 +1,13 @@
+python=3.7.x
+keras
+Theano=1.04
+numpy
+pandas
+pymysql
+argparse
+flask
+pytorch>=1.4.0
+opencv-python
+flask_httpauth
+pillow
+
